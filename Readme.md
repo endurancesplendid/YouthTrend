@@ -327,7 +327,11 @@ feature/*   → individual feature branches
 fix/*       → bug fix branches
 ```
 
----
+--
+
+My name is Endurance Splendid
+This is my contribution to this project
+-endurancesplendid
 
 ## License
 
